@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Chào cậu, tớ có điều muốn nói. </br> Làm người yêu tớ nhé!",
+  titleHeader: "Ni hao~, hôm nay 20/10 anh có bức thư nho nhỏ <br> muốn gửi đến em",
   descriptionHeader:
-    "Hãy trả lời một cách thật lòng nhé. Nếu cậu im lặng và rời đi thì tức là cậu đã ĐỒNG Ý.",
-  buttonYes: "Tớ đồng ý",
-  buttonNo: "Không đồng ý",
-  titleModar: "Cảm ơn cậu.",
+    "Dưới đây là những lời anh muốn nói, anh mong em sẽ nhận :3 <br><br> Liệu em có muốn đọc không?",
+  buttonYes: "Em cóo",
+  buttonNo: "Hong :>>",
+  titleModar: "Chúc em một ngày vui vẻ nha",
   descriptionModar:
-    "Cảm ơn cậu đã cho tớ một cơ hội để tớ có thể ở bên cạnh, che chở và bảo vệ cậu. </br> Tớ biết tớ không được đẹp trai, cũng chẳng lắm tài nhưng tớ có một trái tim chân thành. Cậu chính là cả thế giới của tớ. </br> Tối nay tớ sẽ đến đón cậu. Cậu mặc thật đẹp vào nhé! Sẽ có một bất ngờ dành cho cậu.</br> Love you <3",
+    "Hôm nay là ngày 20/10, Anh chúc em một ngày thật vui nha<br>- Chúc em luôn xinh đẹp, hạnh phúc và thành công trong cuộc sống<br>Hãy luôn mỉm cười và biết rằng em luôn được mọi người yêu thương và trân trọng<br><br>Chiều nay khi em về ấy, anh có nghe em buồn vì đã mất giải trong cuộc thi đánh bóng.<br>Tiếc nhỉ, đi 1 quãng đường mà phải dừng chân lại, anh biết em sẽ hụt hẫn nhưng vui lên đi nhé, đừng có buồn quá, mình còn thời gian làm lại áa<br>Cuối cùng thì anh chúc em có 1 ngày 20 / 10 vui vẻ nhá <3",
 };
